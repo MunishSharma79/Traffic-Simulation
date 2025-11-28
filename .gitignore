@@ -1,0 +1,15 @@
+cmake-build-debug
+.idea
+tinyxml
+build
+.vscode
+tinyxml
+*.txt
+*.html
+*.exe
+*.bmp
+*.ini
+Engine/filelist
+ts
+ts_debug
+.cache
